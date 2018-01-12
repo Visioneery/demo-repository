@@ -1,2 +1,2 @@
 # demo-repository
-Description of repository
+This repository is for practice in GitHub
